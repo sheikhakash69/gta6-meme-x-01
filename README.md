@@ -1,5 +1,9 @@
 # GTA 6 meme for make.fun bounty gta6-meme-x-01
 
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/sheikhakash69/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/sheikhakash69/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
 Entry for [@sheikhakash69](https://make.fun/u/sheikhakash69) on
 [Post a GTA 6 meme on X](https://make.fun/bounty/gta6-meme-x-01).
 
@@ -11,7 +15,7 @@ Leonida neon and started farming open bounties for real money.
 Files:
 - `meme.png` / `meme.jpg` — the meme (make.fun mark composited from https://make.fun/press/mark-1024.png)
 - `make-fun-mark.png` — press kit mark used as reference
-- `POST.json` — X post URL (filled after Akash posts)
+- `POST.json` — X post URL
 - `main.ts` — copies `POST.json` to `/output` for the program/v1 harness
 
 ## Run locally
